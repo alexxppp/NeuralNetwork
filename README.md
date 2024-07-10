@@ -5,3 +5,4 @@ The Neural Network is built from scratch using numpy for numerical operations.
 A Neural Network for recognising handwritten numbers is made by layers, where the input layers get the image of the number, and the output layer gives the final prediction.
 Underneath the hood, in the "Hidden layers", the nerual network start by randomizing the prediction, and then by back-propagation it adjusts the parameters to make a more
 precise prediction. The more times you iterate over the handwritten samples, the better it becomes.
+The main file is "recognise.py"
